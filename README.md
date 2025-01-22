@@ -19,14 +19,13 @@ So, my friend at work keep complaining that it takes too long to texture 1 by 1 
 
 ### ✍️ Authors
 
-Nafis Widihasmoro
-A technical artist in the making
+Nafis Widihasmoro, A technical artist in the making
 
 
 ## ⬇️ Installation
 
-Just add it like any add-on in blender
-the file is inside of __init__.py and the name is MatToVertCol.py
+- Just add it like any add-on in blender
+- the file is inside of __init__.py and the name is MatToVertCol.py
 
 
 ## 💭 Feedback and Contributing
