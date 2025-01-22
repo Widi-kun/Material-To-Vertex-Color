@@ -29,7 +29,7 @@ class OBJECT_PT_MatToVertColPanel(bpy.types.Panel):
 class OBJECT_OT_MatToVertColOperator(bpy.types.Operator):
     """Converts materials to vertex colors for selected objects"""
     bl_idname = "object.mat_to_vert_col"
-    bl_label = "Convert Materials to Vertex Colors"
+    bl_label = "Convert"
     bl_options = {'REGISTER', 'UNDO'}
 
     def execute(self, context):
