@@ -1,7 +1,5 @@
 # 📦 MatToVertCol
 
-Tested on Blender 4.2.5
-
 > This is a tool for blender converting the base color Principled BSDF to Vertex Color
 
 
@@ -32,3 +30,7 @@ Nafis Widihasmoro, A technical artist in the making
 
 If you want to give a feedback you can email me at
 nafis.widi@gmail.com
+
+## Tested Blender Version
+- 3.6.19
+- 4.2.5
